@@ -8,6 +8,6 @@ public class GreetingService {
 
 
     public String greet() {
-        return "Hello,World From the greeting service ";
+        return "Hello,World";
     }
 }
